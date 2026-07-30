@@ -30,10 +30,6 @@ I'm a software developer with a passion for building practical applications, exp
 ## GitHub Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somerug1-ops&theme=github_dark" />
-</p>
-
-<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somerug1-ops&theme=github_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somerug1-ops&theme=github_dark" width="49%" />
 </p>
