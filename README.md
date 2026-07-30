@@ -20,28 +20,20 @@ I'm a software developer with a passion for building practical applications, exp
 
 ## Current Focus
 
-- Building personal and open-source projects
-- Expanding my knowledge of software engineering
-- Developing scalable and maintainable applications
-- Learning modern tools and technologies
+- Building personal projects
+- Learning new technologies
+- Writing clean, maintainable code
+- Contributing to open source
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=somerug1-ops&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerug1-ops&layout=compact&theme=github_dark&hide_border=true" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somerug1-ops&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=somerug1-ops&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somerug1-ops&theme=github-dark&hide_border=true" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somerug1-ops&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somerug1-ops&theme=github_dark" width="49%" />
 </p>
