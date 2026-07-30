@@ -20,28 +20,28 @@ I'm a software developer with a passion for building practical applications, exp
 
 ## Current Focus
 
-* Building personal and open-source projects
-* Expanding my knowledge of software engineering
-* Developing scalable and maintainable applications
-* Learning modern tools and technologies
+- Building personal and open-source projects
+- Expanding my knowledge of software engineering
+- Developing scalable and maintainable applications
+- Learning modern tools and technologies
 
 ---
 
 ## GitHub Statistics
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SomeRug&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeRug&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=somerug1-ops&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerug1-ops&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=SomeRug&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=somerug1-ops&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ## Activity
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomeRug&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somerug1-ops&theme=github-dark&hide_border=true" />
 </p>
